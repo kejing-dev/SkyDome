@@ -8,8 +8,9 @@ Tonight's real sky above your head. The upper half of your view becomes an opaqu
 
 ![Poster](docs/media/poster.png)
 
-> **当前状态 / Status (v0.1.1)**
+> **当前状态 / Status (v0.1.1, 2026-10-23 发布 released)**
 >
+> - 门 C 人工验收已放行，Release v0.1.1 为正式版本（debug 签名）。Gate C passed; v0.1.1 is a published release (debug-signed).
 > - 只在 PICO 6.1 模拟器上验证过（QA 两轮，34 个状态截图，黑块测试 720 张连续黑 0 次）。已装到头显，但还没戴上看过：**真机效果依赖真机验证**（见下文「真机依赖」）。Verified on the PICO 6.1 emulator only (two QA rounds, 34 state screenshots, 0 consecutive black frames in 720). Installed on a headset but not yet looked at: **device behaviour depends on a device check** (see "Device-dependent" below).
 > - 截图和视频都来自模拟器，由调试命令和模拟器输入驱动，**不是真实手势录像**。Screenshots and video come from the emulator, driven by debug commands and injected emulator input. **This is not a recording of real hand gestures.**
 > - **星表和星座连线的许可待确认**（见「数据来源与许可」）。**The licences of the star catalogue and the constellation figures are pending confirmation** (see "Data sources and licences").
@@ -44,7 +45,7 @@ adb install -r SkyDome-v0.1.1.apk
 pico-cli app launch io.embodit.skydome
 ```
 
-APK 在 [Releases](../../releases) 里（debug 签名）。The APK is attached to the release (debug-signed).
+APK 在 [Release v0.1.1](../../releases/tag/v0.1.1) 里（debug 签名，sha256 `188a695f215b8b17ca570e4dab87446adf616dc2a3d9a3a38ebe84ec0dae90b9`）。The APK is attached to release v0.1.1 (debug-signed).
 
 ## 构建 Build
 
