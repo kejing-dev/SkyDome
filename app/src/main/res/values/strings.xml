@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sky Dome</string>
+    <string name="lang_code">en</string>
+
+    <!-- hand bar -->
+    <string name="bar_fast">Fast forward</string>
+    <string name="bar_pause">Pause</string>
+    <string name="bar_tonight">Tonight</string>
+    <string name="bar_settings">Settings</string>
+    <string name="bar_time_hint">Time and place</string>
+    <string name="chip_to_tonight">Daytime · To tonight</string>
+    <string name="chip_back_now">⟲ Back to now</string>
+    <string name="chip_demo">Demo heading · Find north</string>
+    <string name="chip_stale">Heading changed · Find north</string>
+
+    <!-- calibrate -->
+    <string name="cal_title">Which way are you facing?</string>
+    <string name="cal_body">A phone compass is most accurate; a window works too.</string>
+    <string name="cal_confirm">This way</string>
+    <string name="cal_skip">Not sure, just look</string>
+
+    <!-- time and place -->
+    <string name="tp_title">Time and place</string>
+    <string name="tp_today">Today</string>
+    <string name="tp_now">Back to now</string>
+    <string name="tp_city">City</string>
+    <string name="tp_fallback">Couldn\'t find your city, using Beijing</string>
+    <string name="tp_prev">Previous day</string>
+    <string name="tp_next">Next day</string>
+
+    <!-- tonight -->
+    <string name="tn_now">Visible now</string>
+    <string name="tn_after_dark">After dark tonight · %1$s</string>
+    <string name="tn_none">Nothing bright above the horizon</string>
+    <string name="dir_alt">%1$s · %2$d° up</string>
+
+    <!-- settings -->
+    <string name="st_title">Settings</string>
+    <string name="st_sky">Sky</string>
+    <string name="st_lines">Constellation lines</string>
+    <string name="st_bodies">Planets and moon</string>
+    <string name="st_compass">N E S W</string>
+    <string name="st_view">How to view</string>
+    <string name="st_dark">All dark</string>
+    <string name="st_dark_body">You won\'t see the room</string>
+    <string name="st_heading">Heading</string>
+    <string name="st_recal">Find north again</string>
+    <string name="st_language">Language</string>
+    <string name="lang_system">System</string>
+    <string name="lang_zh" translatable="false">中文</string>
+    <string name="lang_en" translatable="false">English</string>
+    <string name="st_about">About</string>
+    <string name="st_version">Version %1$s</string>
+    <string name="st_credits">Stars: XHIP (Anderson &amp; Francis 2012) via CDS VizieR. Star names cross-index: Kostjuk 2002 (CDS IV/27A). Figures recorded from the IAU constellation charts (IAU and Sky &amp; Telescope). Constellation boundaries: Roman 1987 (CDS VI/42). Planets: JPL approximate Keplerian elements. Magnitudes: Mallama &amp; Hilton 2018. Sun and moon: suncalc (BSD-2) formulas.</string>
+
+    <!-- constellation card -->
+    <string name="cd_brightest">Brightest star: %1$s · mag %2$s</string>
+    <string name="cd_best">Best seen: %1$s · 9 pm local time</string>
+    <string name="cd_now">Now: %1$s</string>
+    <string name="cd_below">below the horizon</string>
+    <string name="cd_depth">True distance</string>
+    <string name="cd_stick">Thumbstick left / right: turn it</string>
+    <string name="cd_put_back">Put back in the sky</string>
+    <string name="cd_range">Nearest %1$s · farthest %2$s</string>
+    <string name="cd_uncertain">%1$d stars have uncertain distances</string>
+    <string name="cd_uncertain_one">1 star has an uncertain distance</string>
+    <string name="ly">%1$s ly</string>
+    <string name="ly_about">about %1$s ly</string>
+    <string name="ly_under">&lt;10 ly</string>
+    <string name="ly_over">&gt;5,000 ly</string>
+    <string name="you_are_here">You are here</string>
+
+    <!-- body card -->
+    <string name="bd_mag_in">Mag %1$s · in %2$s</string>
+    <string name="bd_mag">Mag %1$s</string>
+    <string name="bd_rise_set">Rises %1$s · sets %2$s</string>
+    <string name="bd_rise_only">Rises %1$s</string>
+    <string name="bd_set_only">Sets %1$s</string>
+    <string name="bd_no_rise">Doesn\'t rise today</string>
+    <string name="bd_up_all_day">Up all day</string>
+    <string name="bd_today">today %1$s</string>
+    <string name="bd_tomorrow">tomorrow %1$s</string>
+    <string name="bd_dist_au">%1$s AU from Earth</string>
+    <string name="bd_dist_km">%1$s km from Earth</string>
+    <string name="bd_phase">%1$s · %2$d%%</string>
+    <string name="bd_sun">Daytime: the stars are there, just not visible</string>
+
+    <!-- dial, toast, tags -->
+    <string name="dial_delta">%1$s · %2$s</string>
+    <string name="hours_plus">+%1$s h</string>
+    <string name="hours_minus">−%1$s h</string>
+    <string name="toast_pinch">Pinch to pull it down</string>
+    <string name="toast_no_lines">No constellation lines here</string>
+    <string name="toast_switch_failed">Couldn\'t go all dark; staying see-through</string>
+    <string name="toast_now">Back to now</string>
+    <string name="toast_demo">Demo heading: north may not be accurate</string>
+    <string name="north_demo">N (demo)</string>
+    <string name="north_stale">N?</string>
+    <string name="month_name">%1$s</string>
+
+    <string name="body_sun">Sun</string>
+    <string name="body_moon">Moon</string>
+    <string name="body_mercury">Mercury</string>
+    <string name="body_venus">Venus</string>
+    <string name="body_mars">Mars</string>
+    <string name="body_jupiter">Jupiter</string>
+    <string name="body_saturn">Saturn</string>
+
+    <string-array name="compass8">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="compass4">
+        <item>North</item>
+        <item>East</item>
+        <item>South</item>
+        <item>West</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>New moon</item>
+        <item>Waxing crescent</item>
+        <item>First quarter</item>
+        <item>Waxing gibbous</item>
+        <item>Full moon</item>
+        <item>Waning gibbous</item>
+        <item>Last quarter</item>
+        <item>Waning crescent</item>
+    </string-array>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>

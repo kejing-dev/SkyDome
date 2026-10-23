@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">星空穹顶</string>
+    <string name="lang_code">zh</string>
+
+    <string name="bar_fast">快进</string>
+    <string name="bar_pause">停</string>
+    <string name="bar_tonight">今晚看点</string>
+    <string name="bar_settings">设置</string>
+    <string name="bar_time_hint">时间和地点</string>
+    <string name="chip_to_tonight">白天 · 到今晚</string>
+    <string name="chip_back_now">⟲ 回到现在</string>
+    <string name="chip_demo">演示方位 · 去指北</string>
+    <string name="chip_stale">方向变了 · 重新指北</string>
+
+    <string name="cal_title">你现在面向哪边？</string>
+    <string name="cal_body">用手机指南针看一下最准；也可以看窗户朝向</string>
+    <string name="cal_confirm">就是这边</string>
+    <string name="cal_skip">不知道，先看看</string>
+
+    <string name="tp_title">时间和地点</string>
+    <string name="tp_today">今天</string>
+    <string name="tp_now">回到现在</string>
+    <string name="tp_city">城市</string>
+    <string name="tp_fallback">没找到你的城市，先用北京</string>
+    <string name="tp_prev">前一天</string>
+    <string name="tp_next">后一天</string>
+
+    <string name="tn_now">现在能看到</string>
+    <string name="tn_after_dark">今晚天黑后能看到 · %1$s</string>
+    <string name="tn_none">地平线上没有亮的天体</string>
+    <string name="dir_alt">%1$s · 高 %2$d°</string>
+
+    <string name="st_title">设置</string>
+    <string name="st_sky">天空</string>
+    <string name="st_lines">星座连线</string>
+    <string name="st_bodies">行星和月亮</string>
+    <string name="st_compass">东南西北</string>
+    <string name="st_view">看的方式</string>
+    <string name="st_dark">全黑</string>
+    <string name="st_dark_body">看不到房间</string>
+    <string name="st_heading">方向</string>
+    <string name="st_recal">重新指北</string>
+    <string name="st_language">语言</string>
+    <string name="lang_system">跟随系统</string>
+    <string name="st_about">关于</string>
+    <string name="st_version">版本 %1$s</string>
+    <string name="st_credits">星表：XHIP（Anderson &amp; Francis 2012），来自 CDS VizieR。星名交叉表：Kostjuk 2002（CDS IV/27A）。星座连线对照 IAU 星座图自录（IAU 与 Sky &amp; Telescope）。星座边界：Roman 1987（CDS VI/42）。行星：JPL 近似开普勒根数。星等：Mallama &amp; Hilton 2018。日月：suncalc（BSD-2）公式。</string>
+
+    <string name="cd_brightest">最亮的星：%1$s · %2$s 等</string>
+    <string name="cd_best">最好看：%1$s · 晚上 9 点（当地时间）</string>
+    <string name="cd_now">现在：%1$s</string>
+    <string name="cd_below">在地平线下</string>
+    <string name="cd_depth">真实距离</string>
+    <string name="cd_stick">摇杆左右转动</string>
+    <string name="cd_put_back">放回天上</string>
+    <string name="cd_range">最近 %1$s · 最远 %2$s</string>
+    <string name="cd_uncertain">有 %1$d 颗星距离不确定</string>
+    <string name="cd_uncertain_one">有 1 颗星距离不确定</string>
+    <string name="ly">%1$s 光年</string>
+    <string name="ly_about">约 %1$s 光年</string>
+    <string name="ly_under">&lt;10 光年</string>
+    <string name="ly_over">&gt;5,000 光年</string>
+    <string name="you_are_here">你在这里</string>
+
+    <string name="bd_mag_in">亮度 %1$s 等 · 在%2$s</string>
+    <string name="bd_mag">亮度 %1$s 等</string>
+    <string name="bd_rise_set">%1$s升起 · %2$s落下</string>
+    <string name="bd_rise_only">%1$s升起</string>
+    <string name="bd_set_only">%1$s落下</string>
+    <string name="bd_no_rise">今天不升起</string>
+    <string name="bd_up_all_day">全天在地平线上</string>
+    <string name="bd_today">今天 %1$s </string>
+    <string name="bd_tomorrow">次日 %1$s </string>
+    <string name="bd_dist_au">离地球 %1$s 天文单位</string>
+    <string name="bd_dist_km">离地球 %1$s 千米</string>
+    <string name="bd_phase">%1$s · %2$d%%</string>
+    <string name="bd_sun">白天，星星本来看不见</string>
+
+    <string name="dial_delta">%1$s · %2$s</string>
+    <string name="hours_plus">+%1$s 小时</string>
+    <string name="hours_minus">−%1$s 小时</string>
+    <string name="toast_pinch">捏一下拉下来</string>
+    <string name="toast_no_lines">这里没有星座连线</string>
+    <string name="toast_switch_failed">没能切到全黑，已保持透视</string>
+    <string name="toast_now">已回到现在</string>
+    <string name="toast_demo">现在是演示方位，北不一定准</string>
+    <string name="north_demo">北（演示）</string>
+    <string name="north_stale">北？</string>
+    <string name="month_name">%1$s</string>
+
+    <string name="body_sun">太阳</string>
+    <string name="body_moon">月亮</string>
+    <string name="body_mercury">水星</string>
+    <string name="body_venus">金星</string>
+    <string name="body_mars">火星</string>
+    <string name="body_jupiter">木星</string>
+    <string name="body_saturn">土星</string>
+
+    <string-array name="compass8">
+        <item>北</item>
+        <item>东北</item>
+        <item>东</item>
+        <item>东南</item>
+        <item>南</item>
+        <item>西南</item>
+        <item>西</item>
+        <item>西北</item>
+    </string-array>
+    <string-array name="compass4">
+        <item>北</item>
+        <item>东</item>
+        <item>南</item>
+        <item>西</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>新月</item>
+        <item>蛾眉月</item>
+        <item>上弦月</item>
+        <item>盈凸月</item>
+        <item>满月</item>
+        <item>亏凸月</item>
+        <item>下弦月</item>
+        <item>残月</item>
+    </string-array>
+    <string-array name="months">
+        <item>1 月</item>
+        <item>2 月</item>
+        <item>3 月</item>
+        <item>4 月</item>
+        <item>5 月</item>
+        <item>6 月</item>
+        <item>7 月</item>
+        <item>8 月</item>
+        <item>9 月</item>
+        <item>10 月</item>
+        <item>11 月</item>
+        <item>12 月</item>
+    </string-array>
+</resources>

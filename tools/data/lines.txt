@@ -1,0 +1,94 @@
+# Constellation stick figures, hand-recorded by the build station against the IAU constellation charts
+# (IAU and Sky & Telescope, Roger Sinnott & Rick Fienberg; figures by Alan MacRobert). See tools/lines-source.md.
+# One constellation per line: ABBR  chain, chain, ...   A chain is stars joined by '-'.
+# A star is its Bayer code as in CDS IV/27A (alf bet gam del eps zet eta tet iot kap lam mu. nu. xi. omi pi. rho
+# sig tau ups phi chi psi ome, with 01/02 for superscripts), a Flamsteed number, or OTHER:code for a star of a
+# neighbouring constellation (Peg's square uses And:alf). Simplified figures for a few faint constellations.
+And  alf-del-bet-gam01, bet-mu.-nu., del-pi., alf-pi.
+Ant  eps-alf-iot
+Aps  alf-del01-bet-gam
+Aqr  eps-bet-alf-gam-zet-eta, alf-the-lam-del, lam-phi-psi01
+Aql  bet-alf-gam, alf-del-lam, del-zet-eps, del-eta-the
+Ara  alf-bet-gam-del, bet-zet-eta
+Ari  gam01-bet-alf-41
+Aur  alf-bet-the-Tau:bet-iot-alf, alf-eps-zet-eta-alf
+Boo  alf-rho-gam-bet-del-eps-alf, alf-eta, alf-zet
+Cae  del-alf-bet-gam
+Cam  7-bet-alf-gam
+Cnc  iot-gam-del-alf, del-bet
+CVn  alf02-bet
+CMa  bet-alf-omi02-del-eta, del-eps-zet, alf-iot-gam
+CMi  alf-bet
+Cap  alf02-bet-psi-ome-zet-del-gam-iot-the-alf02
+Car  alf-chi-eps-iot, eps-bet-ome-the-iot
+Cas  eps-del-gam-alf-bet
+Cen  alf-bet-eps-zet-nu.-the, eps-gam-del, zet-eta-kap
+Cep  alf-bet-gam-iot-zet-alf, zet-eps-del, alf-eta-the
+Cet  alf-lam-mu.-ksi02-nu.-gam-alf, gam-del-omi-zet, zet-the-eta-iot-bet-tau-zet
+Cha  alf-gam-bet-del02-alf
+Cir  alf-bet, alf-gam
+Col  eps-alf-bet-del, bet-eta
+Com  alf-bet-gam
+CrA  eps-gam-alf-bet-del-zet
+CrB  the-bet-alf-gam-del-eps-iot
+Crv  alf-eps-gam-del-bet-eps
+Crt  alf-bet-gam-del-alf, del-eps-the, gam-zet-eta
+Cru  alf-gam, bet-del
+Cyg  alf-gam-eta-bet01, zet-eps-gam-del-iot-kap
+Del  alf-bet-del-gam02-alf, bet-eps
+Dor  gam-alf-bet-del, alf-zet
+Dra  bet-gam-ksi-nu.-bet, ksi-del-eps-chi-zet-eta-the-iot-alf-kap-lam
+Equ  alf-gam-del-bet-alf
+Eri  bet-ome-mu.-nu.-omi01-gam-pi.-del-eps-eta-tau01-tau02-tau03-tau04-tau05-tau06-tau08-tau09-ups01-ups02-the-iot-kap-phi-chi-alf
+For  alf-bet-nu.
+Gem  alf-tau-eps-mu.-eta, tau-iot-ups-bet, ups-del-zet-gam, del-lam-ksi, tau-the
+Gru  gam-lam-mu.01-del01-bet-iot-the, bet-alf, bet-eps-zet
+Her  eps-zet-eta-pi.-eps, zet-bet-gam, eps-del-lam-mu., pi.-rho-the-iot, eta-sig-tau-phi-chi, del-alf01
+Hor  alf-iot-eta-zet-mu.-bet
+Hya  del-sig-eta-rho-eps-del, eps-zet-the-iot-alf-ups01-lam-mu.-nu.-ksi-bet-gam-pi.
+Hyi  alf-bet-gam-alf
+Ind  alf-bet, alf-the-del
+Lac  bet-alf-5-2-6-1
+Leo  eps-mu.-zet-gam01-eta-alf, gam01-del-bet-the-alf, del-the
+LMi  10-21-46-bet-10
+Lep  mu.-alf-bet-eps, bet-gam-del-zet-alf, mu.-lam-kap
+Lib  sig-alf02-bet-gam-ups
+Lup  zet-alf-bet-del-gam-eps, gam-eta
+Lyn  alf-38-31-21-15-2
+Lyr  alf-zet01-del02-gam-bet-zet01
+Men  alf-gam-bet-eta
+Mic  alf-gam-eps
+Mon  gam-bet-del-alf, del-eps
+Mus  lam-eps-alf-bet-del-gam-alf
+Nor  eps-gam02-eta
+Oct  nu.-bet-del-nu.
+Oph  alf-kap-del-eps-zet-eta-bet-alf, eta-ksi-the
+Ori  alf-zet-kap, gam-del-bet, del-eps-zet, alf-lam-gam, gam-pi.03, pi.01-pi.02-pi.03-pi.04-pi.05-pi.06, alf-mu.-ksi-chi01, ksi-nu.
+Pav  alf-bet-del-zet, bet-eps, alf-gam
+Peg  alf-bet-And:alf-gam-alf, alf-ksi-zet-the-eps, bet-mu.-lam, bet-eta-pi.02
+Per  eta-gam-alf-del-eps-ksi-zet-omi, alf-kap-bet-rho
+Phe  alf-kap-bet-gam-del, bet-zet
+Pic  alf-gam-bet
+PsA  alf-eps-mu.-bet-gam-del-alf
+Psc  eta-omi-alf-nu.-mu.-eps-del-ome-iot-the-gam-kap-lam-iot
+Pup  rho-zet-pi.-nu.-tau
+Pyx  bet-alf-gam
+Ret  alf-bet-del-eps-alf
+Sge  alf-del-gam, bet-del
+Sgr  gam02-del-eps-gam02, del-lam-phi-sig-tau-zet-eps, del-phi, zet-phi
+Sco  bet01-del-pi., del-sig-alf-tau-eps-mu.01-zet02-eta-the-iot01-kap-lam-ups
+Scl  alf-del-gam-bet
+Sct  alf-bet-del-gam-alf
+Ser  mu.-eps-alf-del-bet-gam-kap-iot-bet, nu.-ksi-eta-the01
+Sex  gam-alf-bet
+Tau  bet-eps-del01-gam-the01-alf-zet, gam-lam
+Tel  eps-alf-zet
+Tri  alf-bet-gam-alf
+TrA  alf-bet-gam-alf
+Tuc  alf-gam-bet01, gam-eps-zet
+UMa  eta-zet-eps-del-alf-bet-gam-del, gam-chi-nu.-ksi, chi-psi-mu.-lam, bet-ups-omi-23-alf, ups-the-kap-iot
+UMi  alf-del-eps-zet-bet-gam-eta-zet
+Vel  gam02-del-kap-phi-mu.-psi-lam-gam02
+Vir  bet-eta-gam-del-eps, gam-zet-alf, zet-tau, alf-iot-mu.
+Vol  alf-bet-eps-alf, eps-del-gam-zet-eps
+Vul  alf-13

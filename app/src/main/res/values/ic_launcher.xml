@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- zenith navy (天顶藏青): the app's own icon colour in the launcher; no other factory app uses it
+         (registry: side-session-notes icon-registry.md) -->
+    <color name="ic_launcher_background">#FF0F2A52</color>
+</resources>
